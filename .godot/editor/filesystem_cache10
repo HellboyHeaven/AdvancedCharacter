@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739808512
+icon.svg::CompressedTexture2D::6112241408233713772::1739808497::1739808514::1::::<><><>0<>0<>ace5a3a9c26a41791d31d9a7dd538dc5<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1739808321::0::1::::<><><>0<>0<><>::
+::res://addons/::1739808321
+advanced_character.gd::GDScript::6764575057200874348::1739808321::0::1::::AdvancedCharacter3D<>CharacterBody3D<><>0<>0<><>::
+::res://script_templates/::1739808321
+::res://script_templates/AdvancedCharacter3D/::1739808321
+basic_movement.gd::GDScript::7422755778525733277::1739808321::0::1::::<>AdvancedCharacter3D<><>0<>0<><>::
